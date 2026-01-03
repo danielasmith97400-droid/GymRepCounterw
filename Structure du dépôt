@@ -1,0 +1,12 @@
+GymRepCounter/
+├── app/
+│   ├── src/main/
+│   │   ├── AndroidManifest.xml
+│   │   ├── java/com/example/gymrepcounter/
+│   │   │   ├── MainActivity.kt
+│   │   │   └── RepCounter.kt
+│   │   └── res/layout/activity_main.xml
+│   └── build.gradle
+├── build.gradle
+├── settings.gradle
+└── .github/workflows/build.yml
